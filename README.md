@@ -6,121 +6,122 @@ My aim for this website is to help my fellow Filipino Citizen Mena and Women obt
 
 ## Table of Contents
 
-- Visa Chronicles
-- Table of Contents
-- UX
-  - Site Purpose
-  - Goal
-  - Audience
-  - Current User Goal
-  - New User Goal
-  - Communication
+- [Visa Chronicles](#visa-chronicles)
+  - [Table of Contents](#table-of-contents)
+  - [**UX**](#ux)
+    - [**Site Purpose**](#site-purpose)
+    - [**Site Goal**](#site-goal)
+    - [**Audience**](#audience)
+    - [**Current User Goal**](#current-user-goal)
+    - [**New User Goal**](#new-user-goal)
+    - [**Communication**](#communication)
+  - [**Design**](#design)
+    - [**Colour Palette**](#colour-palette)
+    - [**Typography**](#typography)
+    - [**Images**](#images)
+  - [**Features**](#features)
+    - [**Language Used**](#language-used)
+    - [**Navigation Bar**](#navigation-bar)
+    - [**Landing Page**](#landing-page)
+    - [**About Me**](#about-me)
+    - [**Footer**](#footer)
+    - [**Future Features**](#future-features)
+  - [**Testing**](#testing)
+    - [**HTML Validatior Test**](#html-validatior-test)
+    - [**CSS Validator Test**](#css-validator-test)
+    - [**Lighthouse Mobile**](#lighthouse-mobile)
+    - [**Lighthouse Desktop**](#lighthouse-desktop)
+    - [**Website Functions**](#website-functions)
+  - [**Libraries and Progransms used**](#libraries-and-progransms-used)
+  - [**Deployment \& Usage**](#deployment--usage)
+    - [**Deployment**](#deployment)
+    - [**How to Fork**](#how-to-fork)
+    - [**How to Clone**](#how-to-clone)
+  - [**Credits**](#credits)
+    - [**Media**](#media)
 
-- Design
-  - Colour Palette
-  - Typography
-  - Images
+## **UX**
 
-- Features
-  - Language Used
-  - Navigation Bar
-  - Landing Page
-  - About Me
-  - Footer
-  - Future Features
-
-- Testing
-  - HTML Validatior Test
-  - CSS Validator Test
-  - Lighthouse Mobile
-  - Lighthouse Desktop
-  - Website Functions
-
-- Libraries and Progransms used 
-- Deployment & Usage
-  - Deployment
-  - How to Fork
-  - How to Clone
-
-- Credits
-  - Media
-
-## UX
-
-### Site Purpose
+### **Site Purpose**
 
 This website are for my fellow Filipino's Men and Women who are seeking for information and guide on how to process a Spouse Visa to the UK.
 
-### Site Goal
+### **Site Goal**
 
 This site provides a relatively easier and step by step guide for Spouse Visa Application.
 
-### Audience
+### **Audience**
 
 My target audience are people from my country of origin.
 
-### Current User Goal
+### **Current User Goal**
 
 - Downloadable templates that they could use as a guide when filling out forms
 - Links to website on where to download the application forms.
 - Maps to show where they can submit their application forms.
 - Time Line Grid to serve as a guide for the application process.
 - Video, that shows the process of the application.
-
-### New User Goal
-
 - Contact Us
-- Subscription to sign up about updates and or new country destination.
+- 
+### **New User Goal**
 
-### Communication
+
+### **Communication**
 
 Since this a blog of my own personal experience which aims to help people with their visa application. I am focused on a simple website that uses easy on the eyes shades. I have added a video on the process page to provide visual learners a choice and as well a downloadable template if they choose to have something to read.
 
-## Design
+## **Design**
 
-### Colour Palette
+### **Colour Palette**
 
-### Typography
+### **Typography**
 
-### Images
+### **Images**
 
-## Features
+## **Features**
 
-### Language Used
+### **Language Used**
 
-### Navigation Bar
+### **Navigation Bar**
 
-### Landing Page
+### **Landing Page**
 
-### About Me
+### **About Me**
 
-### Footer
+### **Footer**
 
-### Future Features
+### **Future Features**
 
-## Testing
+## **Testing**
 
-### HTML Validatior Test
+### **HTML Validatior Test**
 
-### CSS Validator Test
+### **CSS Validator Test**
 
-### Lighthouse Mobile
+### **Lighthouse Mobile**
 
-### Lighthouse Desktop
+### **Lighthouse Desktop**
 
-### Website Functions
+### **Website Functions**
 
-## Libraries and Progransms used
+## **Libraries and Progransms used**
+- Github: Store Repository
+- Gitpod: To create the html and css file
+- Google Fonts: Font family 'Roboto'
+- ev Tools: For styling and lighthouse
+- Safari: Site testing on an alternative browser
+- Font Awesome: Dropdown menu icon
+- UI.DEV: Responsive screenshots of the final project for the README file
 
-## Deployment & Usage
+## **Deployment & Usage**
 
-### Deployment
+### **Deployment**
 
-### How to Fork
+### **How to Fork**
 
-### How to Clone
+### **How to Clone**
 
-## Credits
+## **Credits**
 
-### Media
+### **Media**
   
