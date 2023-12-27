@@ -1,7 +1,19 @@
-/*--------------------------------------------Colors*/
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@435&family=Rubik+Doodle+Shadow&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
 
-/* ----------------------------------------Special paddings/margins/text */
 
-/*--------------------------------------------Heading*/
-/*--------------------------------------------Hover.css*/
-/* ----------------------------------------Footer */
+/*Index.HTML  */
+/*----------------------------------------------colors */
+
+a {
+    color: #0a0a0a;
+    ;
+
+}
+
+#site-logo {
+    height: 300px;
+    width: 50%;
+    background-image: url("/images/Logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
