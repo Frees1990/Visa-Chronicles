@@ -8,12 +8,25 @@
     font-size: xx-large;
 }
 
-
-#site-logo {
-    height: 250px;
-    width: 100%;
-    background-image: url("/images/Logo.png");
-    background-repeat: no-repeat;
-    text-align:center;
-
+.nav-link {
+    color: #e0a771;
 }
+
+
+#home {
+    background: url('/images/visa.jpg') 25% 0 repeat-y fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    height: 70vh;
+    text-align: center;
+}
+
