@@ -2,7 +2,6 @@
 
 
 /*Index.HTML  */
-/*----------------------------------------------colors */
 
 .navbar-nav {
     font-size: xx-large;
@@ -30,3 +29,7 @@
     text-align: center;
 }
 
+.first-info {
+    margin: 100px 0;
+    text-align: center;
+}
