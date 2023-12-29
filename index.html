@@ -14,7 +14,7 @@
 </head>
 
 <body>
-    <nav class="navbar border-bottom border-dark navbar-expand-lg bg-body-tertiary navbar-light ">
+    <nav class="navbar border-dark navbar-expand-lg bg-body-tertiary navbar-light ">
         <div class="container-fluid">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
                 aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -51,40 +51,54 @@
         <!---------------About button  -->
         <div class="container mt-1">
             <div class="text-center">
-                <button type="button" class="btn btn-primary btn-lg"><a href="about.html">ABOUT</a></button>
+                <button type="button" class="btn btn-primary btn-lg"><a href="about.html">About</a></button>
             </div>
         </div>
     </div>
     <!-----------------Slidshow  -->
-    <div id="carouselExampleControls right_curtain" class="carousel slide " data-bs-ride="carousel">
-        <div class="carousel-inner container-fluid">
+    <div id="carouselExampleIndicators" class="carousel slide">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
+                aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                aria-label="Slide 3"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3"
+                aria-label="Slide 3"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4"
+                aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="images/waterfalls.jpg" class="d-block w-100" alt="waterfalls">
-            </div>
-            <div class="carousel-item">
                 <img src="images/trek.jpg" class="d-block w-100" alt="trek">
             </div>
             <div class="carousel-item">
-                <img src="images/reservior.jpg" class="d-block w-100" alt="reservoir">
+                <img src="images/waterfalls.jpg" class="d-block w-100" alt="waterfalls">
+            </div>
+            <div class="carousel-item">
+                <img src="images/farm.jpg" class="d-block w-100" alt="farm">
             </div>
             <div class="carousel-item">
                 <img src="images/picnic.jpg" class="d-block w-100" alt="picnic">
             </div>
             <div class="carousel-item">
-                <img src="images/farm.jpg" class="d-block w-100" alt="farm">
+                <img src="images/reservior.jpg" class="d-block w-100" alt="reservoir">
             </div>
         </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
             data-bs-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Previous</span>
         </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls"
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
             data-bs-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
         </button>
     </div>
+
+    <!--------footer  -->
     <footer>
         <div class="social-media">
             <h2><strong>FOLLOW MY ADVENTURE ON SOCIAL MEDIA</strong></h2>
