@@ -10,14 +10,14 @@ body {
     font-weight: 700;
     line-height: 1.5;
     color: #212529;
-    background-color: #fff;
+    background-color: #d3cfcf;
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: transparent;
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: #afafac;
-    font-size: 1.5rem;
+    color: #6c0404;
+    font-size: 2rem;
     font-weight: 800;
     margin-top: 20px;
     margin-right: 30px;
@@ -25,16 +25,26 @@ body {
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
-    color: #fff;
+    color: #ede9ed;
     -webkit-text-stroke: 2px black;
+
+}
+
+#mainNav {
+    list-style-type: none;
+    color: #FFF;
+    margin: 0 auto 0 auto;
+    padding: 0;
+    position: fixed;
+    width: 100%;
+    min-width: 100%;
+    overflow: auto;
+
 }
 
 
-
-#home {
-    height: 600px;
-    width: 100%;
-    background: url('/images/visa.jpg') 25% 0 no-repeat fixed;
+.callout-container {
+    background: url('/images/paper.jpg') 25% 0 no-repeat fixed;
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center;
@@ -45,32 +55,29 @@ body {
     -webkit-box-align: center;
     -webkit-align-items: center;
     -ms-flex-align: center;
-    height: 55vh;
+    height: 75vh;
     text-align: center;
 }
 
-h3 {
-    font-weight: 600;
+.rounded-circle {
+    margin-top: 100px;
+    margin-left: 55px;
 }
 
-.first-info {
-    margin: 50px 0;
-    text-align: center;
+.blockquote {
+    margin-top: 100px;
+    margin-left: 5px;
 }
 
-.first-info p {
-    margin-left: 50px;
-    margin-right: 50px;
-    font-size: large;
+h3{
     font-weight: 600;
-    color: #28190b;
 }
 
 .btn-primary,
 .btn-lg .btn-primary:hover,
 .btn-primary:active,
 .btn-primary:visited {
-    background-color: #4b354a !important;
+    background-color: #473346 !important;
     border-radius: 50px;
     text-decoration: none;
     font-size: 16px;
@@ -78,8 +85,9 @@ h3 {
     border: none;
     transition: background 200ms ease, border-color 200ms ease;
     padding: 10px 20px;
-    font-size: 30px;
+    font-size: 25px;
     border-radius: 50px;
+    margin-left: 5px;
 }
 
 a {
@@ -94,17 +102,16 @@ h2 {
     text-align: center;
     color: #3a2c39
 }
-
 .center {
     text-align: center;
     width: 100%;
-}
+    }
 
 i {
     margin-right: 75px;
     margin-left: 25px;
-    color: #431436
-}
+    color: #431436;
+    }
 
 i:hover {
     color: #8b07bb;
