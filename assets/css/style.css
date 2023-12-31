@@ -6,6 +6,7 @@
 body {
     margin: 0;
     height: 100%;
+    min-height: 100vh;
     font-family: "Playfair", sans-serif;
     font-size: 1rem;
     font-weight: 700;
@@ -19,9 +20,10 @@ body {
 .navbar-light .navbar-nav .nav-link {
     color: rgb(106, 76, 144);
     margin-top: 0;
-    font-size: 2rem;
-    font-weight: 800;
+    font-size: 1.5rem;
+    font-weight: 100;
     margin-top: 20px;
+    margin-top: auto;
     margin-right: 30px;
     margin-left: 30px;
     background-color: transparent;
@@ -33,54 +35,52 @@ body {
 
 }
 
-#mainNav {
+/* #mainNav {
     list-style-type: none;
     color: #FFF;
     margin: 0 auto 0 auto;
     padding: 0;
     width: 100%;
     min-width: 100%;
-    overflow: auto;
+} */
 
-}
-
-.callout-container {
-    background: url('/images/paper.jpg') no-repeat bottom right fixed;
-    height:auto;
+#front-image {
+    background: url('/images/logo.png') no-repeat right;
     background-size: cover;
     background-position: center;
     display: flex;
-    height: 100vh;
+    height: 30vh;
     text-align: center;
-    padding-top: 0;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+#spacing {
+    letter-spacing: .2em;
 }
 
 
 /*Jumbotron*/
 
-.jumbotron {
+/* .jumbotron {
     background-color: transparent;
 }
 
 .jumbotron .lead {
-    text-align: center;
-    margin-top: 35vh;
-    margin-left: 40vh;
-    margin-right: 50vh;
-    color: #fff;
+    color: #1d1c1c;
     font-weight: 600;
-    font-size: 3rem;
+    font-size: 1rem;
     letter-spacing: 5px;
-}
+} */
 
-.container-wrapper {
+/* .container-wrapper {
     background-color: #473346 !important;
     border-radius: 0%;
-}
+} */
 
 .rounded-circle {
-    margin-top: 100px;
-    margin-left: 55px;
+    margin-top: 70px;
+    margin-left: 45px;
 }
 
 h3{
@@ -89,10 +89,11 @@ h3{
 }
 
 .blockquote {
-    margin-top: 100px;
+    margin-top: 80px;
+    margin-bottom: 20px;
     margin-left: 5px;
     display: inline-block;
-    color: #fff;    
+    color: #0f0f0f;    
 }
 
 p a{
@@ -106,7 +107,6 @@ p a{
     background-color: #473346;
     border-radius: 50px;
     text-decoration: none;
-    font-size: 16px;
     padding: 10px 20px;
     border: none;
     transition: 200ms ease, border-color 200ms ease;
@@ -122,7 +122,7 @@ p a{
 a {
     text-decoration: none;
     color: #f7ebeb;
-    font-weight: 700;
+    font-weight: 800;
     margin-top: 0px;
 }
 
@@ -181,3 +181,13 @@ footer p {
         margin-left: 5px;
     }
 }
+
+/*------Visa Process-----*/
+/* .marriage { 
+    background: url('/images/marriage.jpg') no-repeat right fixed;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    height: 70vh;
+    text-align: center;
+} */
