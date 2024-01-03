@@ -88,7 +88,7 @@ h3{
 }
 
 
-.blockquote {
+.quote {
     margin-top: 80px;
     margin-bottom: 20px;
     margin-left: 5px;
@@ -180,11 +180,45 @@ footer p {
 
 /* -------Visa Process */
 
-.vp-size-me {
-    margin-top: 50px;
+.marriage-image {
+    margin-top: 70px;
+    margin-left: 100px;
+    width: 350px;
+    height: 350px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #cccccc;
+    border-width: 1px;
+}
+
+.context-WIS {
+    margin-top: 70px;
     margin-left: 50px;
 }
 
-.what-is {
-    display: inline-block
+.context-WIS p {
+    margin-top: 30px;
+    font-size: 1.2em;
 }
+
+.paper-image {
+    margin-top: 70px;
+    margin-left: 100px;
+    width: 350px;
+    height: 350px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #cccccc;
+    border-width: 1px;
+}
+
+.context-Reqiuirements {
+    margin-top: 70px;
+    margin-left: 50px;
+}
+
+.context-Reqiuirements p {
+    margin-top: 30px;
+    font-size: 1.2em;
+}
+
