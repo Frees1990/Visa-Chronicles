@@ -71,7 +71,8 @@ body {
 
 .rounded-image {
     margin-top: 70px;
-    margin-left: 30px;
+    align-items: center;
+    justify-content: center;
     width: 450px;
     height: 450px;
     padding: 30px;
@@ -181,10 +182,11 @@ footer p {
 /* -------Visa Process */
 
 .marriage-image {
-    margin-top: 70px;
-    margin-left: 100px;
-    width: 350px;
-    height: 350px;
+    margin-top: 80px;
+    align-items: center;
+    justify-content: center;
+    width: 650px;
+    height: 600px;
     padding: 30px;
     border-style: solid;
     border-color: #cccccc;
@@ -197,28 +199,56 @@ footer p {
 }
 
 .context-WIS p {
-    margin-top: 30px;
+    margin-top: auto;
     font-size: 1.2em;
 }
 
-.paper-image {
-    margin-top: 70px;
-    margin-left: 100px;
-    width: 350px;
-    height: 350px;
-    padding: 30px;
-    border-style: solid;
-    border-color: #cccccc;
-    border-width: 1px;
+.context-WIS a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: none;
+    color:#0f0f0f;
+}
+.context-WIS a:hover{
+    color:#8b07bb;
 }
 
-.context-Reqiuirements {
-    margin-top: 70px;
+.context-Work {
+    margin-top: 0;
     margin-left: 50px;
 }
+.context-Work p{
+    margin-top: auto;
+    font-size: 1.2em;
 
+}
 .context-Reqiuirements p {
     margin-top: 30px;
     font-size: 1.2em;
 }
 
+.context-Reqiuirements a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: none;
+    color:#0f0f0f;
+}
+
+.context-Reqiuirements a:hover {
+    color:#8b07bb;
+}
+
+.context-Apply p {
+    font-size: 1.2em;
+}
+
+.context-Apply a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: none;
+    color:#0f0f0f;
+}
+
+.context-Apply a:hover {
+    color:#8b07bb;
+}
