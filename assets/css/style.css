@@ -4,6 +4,7 @@
 body {
     font-family: "Playfair", sans-serif;
     text-align: justify;
+    
 }
 
 .navbar {
@@ -219,6 +220,13 @@ footer p {
 }
 
 .Docs {
-    align-items: center;
-    justify-content: center;
+    margin-left: 50px;
 }
+
+.Docs li{
+    margin-left: 50px;
+}
+
+.alert-primary {
+    font-size: 0.8em;
+ }
