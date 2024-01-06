@@ -212,9 +212,13 @@ footer p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: small;
     font-weight: none;
-    color:#0f0f0f;
+    color:#c81f1f;
 }
 .context-WIS a:hover{
     color:#8b07bb;
 }
 
+.Docs {
+    align-items: center;
+    justify-content: center;
+}
