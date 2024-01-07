@@ -191,7 +191,6 @@ footer p {
     align-items: center;
     justify-content: center;
     margin-right: 30px;
-    /* margin-left: 50px; */
     float: left;
     width: 400px;
     height: 400px;
@@ -231,7 +230,7 @@ footer p {
 
 .FLRM , .ILR , .financial-req, 
 .accommodation-req, .e-l-req, .TB-test, .TestCenter,
-.Housing-act{
+.Housing-act, .contact{
     color:#c81f1f;
     text-decoration: none;
     font-size: smaller;
@@ -239,7 +238,7 @@ footer p {
 
 .FLRM:hover , .ILR:hover , .financial-req:hover, 
 .accommodation-req:hover, .e-l-req:hover, .TB-test:hover,
-.TestCenter:hover, .Housing-act:hover, .sites:hover{
+.TestCenter:hover, .Housing-act:hover, .sites:hover, .contact:hover{
     color:#8b07bb;
 }
 
@@ -274,7 +273,14 @@ footer p {
  }
 
  .Mystoryhead p{
+    margin-top: 30px;
+    font-size: x-large;
+    align-items: center;
+    justify-content: center;
+ }
 
-
+ .facebook {
+    color:#0a776e;
+    text-decoration: none;
  }
 
