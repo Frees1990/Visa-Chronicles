@@ -8,6 +8,7 @@ body {
     
 }
 
+
 .navbar {
     color: #0f0f0f;
     margin: 0;
@@ -61,11 +62,6 @@ body {
     position: relative;
 }
 
-
-.color-me, .color-me2 {
-    background-color: #feffdc;
-}
-
 .rounded-image {
     margin-top: 50px;
     align-items: center;
@@ -78,7 +74,6 @@ body {
     border-width: 1px;
     border-radius: 50%;
 }
-
 
 h3{
     margin-bottom: 30px;
@@ -95,6 +90,11 @@ h3{
 
 }
 
+.GOV {
+    color: #0a776e;
+    text-decoration: none;
+}
+
 
 .btn-primary,
 .btn-lg {
@@ -107,6 +107,11 @@ h3{
     margin-left: 5px;
     color: #FFF;
     margin-bottom: 50px;
+}
+
+.stortybutton {
+    color: #FFF;
+    text-decoration: none;
 }
 
 .hover a{
