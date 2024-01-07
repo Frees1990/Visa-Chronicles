@@ -55,14 +55,10 @@ This site provides a relatively easier and step by step guide for Spouse Visa Ap
 My target audience are people from my country of origin.
 
 ### **Current User Goal**
-
-- Downloadable templates that they could use as a guide when filling out forms
 - Links to website on where to download the application forms.
 - Maps to show where they can submit their application forms.
-- Time Line Grid to serve as a guide for the application process.
 - Video, that shows the process of the application.
 - Contact Us
-- 
 ### **New User Goal**
 
 
@@ -73,6 +69,7 @@ Since this a blog of my own personal experience which aims to help people with t
 ## **Design**
 
 ### **Colour Palette**
+
 
 ### **Typography**
 

@@ -67,11 +67,11 @@ body {
 }
 
 .rounded-image {
-    margin-top: 70px;
+    margin-top: 50px;
     align-items: center;
     justify-content: center;
-    width: 450px;
-    height: 450px;
+    width: 400px;
+    height: 400px;
     padding: 30px;
     border-style: solid;
     border-color: #cccccc;
@@ -87,7 +87,7 @@ h3{
 
 
 .quote {
-    margin-top: 80px;
+    margin-top: 70px;
     margin-bottom: 20px;
     margin-left: 5px;
     display: inline-block;
