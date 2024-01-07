@@ -181,49 +181,61 @@ footer p {
 /* -------Visa Process */
 
 .marriage-image {
-    margin-top: 10px;
+    margin-top: 50px;
     align-items: center;
     justify-content: center;
     margin-right: 30px;
     /* margin-left: 50px; */
     float: left;
-    width: 450px;
-    height: 450px;
+    width: 400px;
+    height: 400px;
     padding: 30px;
     border-style: solid;
     border-color: #cccccc;
     border-width: 1px;
 }
 
-.header h1{
-    margin-top: 70px;
-    font-weight: 800;
-}
 
 .context-WIS h3 {
-    font-weight: 500;
-    margin-bottom: 0;
+    margin-top: 50px;
+    font-weight: 800;
+    margin-bottom: 30px;
 }
 
 .context-WIS p {
-    margin-top: 25px;
-    align-items: center;
-    justify-content: center;
-    margin-right: 50px;
+    margin-top: 30px;
 }
 
-.context-WIS a{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: small;
-    font-weight: none;
-    color:#c81f1f;
+iframe {
+    margin-top: 50px;
+    margin-left: 20px;
+    float:right;
 }
-.context-WIS a:hover{
+
+.qualification {
+    float: left;
+}
+
+.FLRM , .ILR , .financial-req, 
+.accommodation-req, .e-l-req, .TB-test, .TestCenter,
+.Housing-act{
+    color:#c81f1f;
+    text-decoration: none;
+    font-size: smaller;
+}
+
+.FLRM:hover , .ILR:hover , .financial-req:hover, 
+.accommodation-req:hover, .e-l-req:hover, .TB-test:hover,
+.TestCenter:hover, .Housing-act:hover, .sites:hover{
     color:#8b07bb;
 }
 
-.qualify a{
-    color: #c81f1f;
+.work {
+    margin-top: 30px;
+}
+
+.qualify {
+    margin-top: 30px;
 }
 
 .Docs {
@@ -237,3 +249,9 @@ footer p {
 .alert-primary {
     font-size: 0.8em;
  }
+
+ .sites{
+    color:#c81f1f;
+    text-decoration: none;
+ }
+
