@@ -95,9 +95,6 @@ h3{
 
 }
 
-p a{
-    color:#08a18d;
-}
 
 .btn-primary,
 .btn-lg {
@@ -112,9 +109,9 @@ p a{
     margin-bottom: 50px;
 }
 
-a {
+.hover a{
     text-decoration: none;
-    color: #f7ebeb;
+    color: #0f0f0f;
     font-weight: 800;
     margin-top: 0px;
 }
@@ -218,6 +215,10 @@ footer p {
 }
 .context-WIS a:hover{
     color:#8b07bb;
+}
+
+.qualify a{
+    color: #c81f1f;
 }
 
 .Docs {
