@@ -231,7 +231,7 @@ footer p {
 
 .FLRM , .ILR , .financial-req, 
 .accommodation-req, .e-l-req, .TB-test, .TestCenter,
-.Housing-act, .contact{
+.Housing-act, .contact, .facebook{
     color:#c81f1f;
     text-decoration: none;
     font-size: smaller;
@@ -239,7 +239,7 @@ footer p {
 
 .FLRM:hover , .ILR:hover , .financial-req:hover, 
 .accommodation-req:hover, .e-l-req:hover, .TB-test:hover,
-.TestCenter:hover, .Housing-act:hover, .sites:hover, .contact:hover{
+.TestCenter:hover, .Housing-act:hover, .sites:hover, .contact:hover, .facebook:hover{
     color:#8b07bb;
 }
 
@@ -280,8 +280,4 @@ footer p {
     justify-content: center;
  }
 
- .facebook {
-    color:#0a776e;
-    text-decoration: none;
- }
-
+ 
