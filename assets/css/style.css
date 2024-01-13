@@ -22,14 +22,15 @@ body {
     border: 0;
 }
 
-.navbar-brand {
+.navbar-brand{
     margin-left: 20px;
     font-size: xx-large;
     font-weight: 800;
+    margin-right: 70px;
 }
 
-.navbar .navbar-nav a {
-    margin-right: 10px;
+.navbar .navbar-nav a{
+    margin-right: 20px;
     font-weight: bold;
 }
 
@@ -231,7 +232,7 @@ footer p {
   }
   .videoWrapper iframe {
     position: absolute;
-    top: 30px;
+    top: 10px;
     left: 0;
     width: 100%;
     height: 100%;
@@ -286,11 +287,12 @@ footer p {
     text-decoration: none;
  }
 
+ .Mystoryhead {
+    margin-top: 30px;
+ }
  .Mystoryhead p{
     margin-top: 30px;
-    font-size: x-large;
-    align-items: center;
-    justify-content: center;
+    
  }
 
  
