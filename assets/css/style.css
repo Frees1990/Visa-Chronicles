@@ -23,11 +23,13 @@ body {
 }
 
 .navbar-brand {
-    font-size: x-large;
+    margin-left: 20px;
+    font-size: xx-large;
     font-weight: 800;
 }
 
 .navbar .navbar-nav a {
+    margin-right: 10px;
     font-weight: bold;
 }
 
@@ -101,7 +103,7 @@ h3{
 
 
 .btn-primary,
-.btn-lg {
+.btn-lg .active{
     background-color: #473346;
     border-radius: 50px;
     text-decoration: none;
