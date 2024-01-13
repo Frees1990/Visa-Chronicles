@@ -181,6 +181,12 @@ footer p {
         margin-left: 5px;
     }
 
+    .marriage-image {
+        max-width: 300px;
+        max-height: 300px;
+        margin-left: 20px;
+    }
+
 }
 
 
