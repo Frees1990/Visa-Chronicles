@@ -139,26 +139,15 @@ h2 {
     }
 
 i {
-    margin-right: 75px;
-    margin-left: 25px;
-    color: #431436;
-    }
-
-i:hover {
+    margin-top: 50px;
+    margin-right: 150px;
+    font-size: 3em;
+    color: #3a2c39;
+}   
+i:hover{
     color: #8b07bb;
 }
 
-.social-media {
-    margin-top: 50px;
-}
-
-#socialicon{
-    margin-top: 30px;
-}
-
-.fa-3 {
-    font-size: 40px
-}
 
 footer p {
     font-weight: 600;
@@ -292,7 +281,7 @@ footer p {
  }
  .Mystoryhead p{
     margin-top: 30px;
-    
+
  }
 
  
