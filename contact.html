@@ -46,23 +46,23 @@
     <div class="container-fluid" >
         <div class="container follow">
             <div class="row">
-                <form>
+                <form action="index.html">
                     <div >
                         <label for="fname" class="f-lab"><strong>Name:</strong></label>
-                        <input id="fname" type="text" class="form-control" placeholder="Enter Name" name="fname" size="1">
+                        <input id="fname" type="text" class="form-control" placeholder="Enter Name" name="fname" size="1" required>
                     </div>
                     <div>
                         <label for="mail" class="f-lab"><strong>Email:</strong></label>
-                        <input id="mail" type="text" class="form-control" placeholder="Enter Email" name="email">
+                        <input id="mail" type="email" class="form-control" placeholder="Enter Email" name="email" required>
                     </div>
                     <div>
                         <label for="phone" class="f-lab"><strong>Phone Number:</strong></label>
-                        <input id="phone" type="number" class="form-control" placeholder="Optional" name="pnum">
+                        <input id="phone" type="text" class="form-control" placeholder="Optional" name="pnum">
                     </div>
                     <div class="mb-3 mt-3">
                         <label for="comment"><strong>Question:</strong></label>
-                        <textarea class="form-control" rows="5" id="comment" name="text"></textarea>
-                      </div>
+                        <textarea class="form-control" rows="5" id="comment" name="text" required></textarea>
+                    </div>
                       <button type="submit" class="btn btn-primary">Submit</button>
                 </form>
             </div>

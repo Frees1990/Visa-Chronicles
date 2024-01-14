@@ -151,7 +151,6 @@ Since this a blog of my own personal experience which aims to help people with t
 - Gitpod: To create the html and css file
 - Google Fonts: Font family "Playfair", sans-serif;
 - ev Tools: For styling and lighthouse
-- Safari: Site testing on an alternative browser
 - Font Awesome: Dropdown menu icon
 - UI.DEV: Responsive screenshots of the final project for the README file
 
