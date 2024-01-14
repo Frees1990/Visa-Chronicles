@@ -8,14 +8,11 @@ body {
     
 }
 
-
 .navbar {
-    color: #0f0f0f;
     margin: 0;
     margin-bottom: 0;
     border: 0;  
     width: 100%;
-    background-color: rgba(248, 241, 241, 0.25);
 }
 
 .navbar .navbar-toggler {
@@ -54,11 +51,6 @@ body {
     position: relative;
 }
 
-.colorme {
-    background-color: #e0e9ab;
-}
-
-
 .rounded-image {
     margin-top: 50px;
     align-items: center;
@@ -67,12 +59,12 @@ body {
     height: 400px;
     padding: 30px;
     border-style: solid;
-    border-color: #cccccc;
+    border-color: #0b0909;
     border-width: 1px;
     border-radius: 50%;
 }
 
-h3{
+blockquote h3{
     margin-bottom: 30px;
     font-weight: 600;
 }
@@ -102,21 +94,10 @@ h3{
     padding: 10px 20px;
     border: none;
     font-size: 25px;
+    font-weight: 700;
     margin-left: 5px;
     color: #FFF;
     margin-bottom: 50px;
-}
-
-.stortybutton {
-    color: #FFF;
-    text-decoration: none;
-}
-
-.hover a{
-    text-decoration: none;
-    color: #0f0f0f;
-    font-weight: 800;
-    margin-top: 0px;
 }
 
 h2 {
@@ -178,32 +159,27 @@ footer p {
 }
 
 
+
 /* -------Visa Process */
 
 .marriage-image {
-    margin-top: 50px;
-    align-items: center;
-    justify-content: center;
-    margin-right: 30px;
     float: left;
+    margin-top: 50px;  
+    margin-right: 50px;
     width: 400px;
     height: 400px;
     padding: 30px;
     border-style: solid;
-    border-color: #cccccc;
     border-width: 1px;
 }
 
-
-.context-WIS h3 {
+h3 {
     margin-top: 50px;
+    margin-bottom: auto;
     font-weight: 800;
-    margin-bottom: 30px;
+
 }
 
-.context-WIS p {
-    margin-top: 20px;
-}
 
 .videoWrapper {
     position: relative;
@@ -212,7 +188,7 @@ footer p {
   }
   .videoWrapper iframe {
     position: absolute;
-    top: 10px;
+    top: 0;
     left: 0;
     width: 100%;
     height: 100%;
@@ -220,13 +196,13 @@ footer p {
   }
 
   .UKFinancialReq {
-    margin-top: 50px;
+    margin-top: 10px;
   }
 
 .FLRM , .ILR , .financial-req, 
 .accommodation-req, .e-l-req, .TB-test, .TestCenter,
 .Housing-act, .contact, .facebook{
-    color:#c81f1f;
+    color:#19b91b;
     text-decoration: none;
     font-size: smaller;
 }
@@ -237,17 +213,9 @@ footer p {
     color:#8b07bb;
 }
 
-.work h3{
-    margin-top: 30px;
-}
-
-.work p{
-    top: 0;
-    bottom: 50px;
-}
 
 .qualify {
-    margin-top: 30px;
+    margin-top: 10px;
 }
 
 .Docs {

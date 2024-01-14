@@ -23,7 +23,6 @@ My aim for this website is to help my fellow Filipino Citizen Mena and Women obt
     - [**Language Used**](#language-used)
     - [**Navigation Bar**](#navigation-bar)
     - [**Landing Page**](#landing-page)
-    - [**About Me**](#about-me)
     - [**Footer**](#footer)
     - [**Future Features**](#future-features)
   - [**Testing**](#testing)
@@ -69,21 +68,55 @@ Since this a blog of my own personal experience which aims to help people with t
 ## **Design**
 
 ### **Colour Palette**
+- Body 
+  - background-color: #dcf3ef
+- Navbar 
+  - Original Bootstrap Navbar-Dark
+- jumbotron-header 
+  - color: white 
+- rounded-image 
+  - border-color: #0b0909;
+- quote 
+  - color: #0f0f0f;
+- GOV 
+  - color: #0a776e;
+- btn-primary, btn-lg active 
+  - background-color: #473346;
+- h2 , i
+  - color: #3a2c39
+- i:hover
+  - color: #8b07bb;
+- copyright
+  - background: #0f0f0f;
+  - color: #FFF; 
+- .FLRM , .ILR , .financial-req, 
+.accommodation-req, .e-l-req, .TB-test, .TestCenter,
+.Housing-act, .contact, .facebook
+  - color:#19b91b;
+
+- .FLRM:hover , .ILR:hover , .financial-req:hover, 
+.accommodation-req:hover, .e-l-req:hover, .TB-test:hover,
+.TestCenter:hover, .Housing-act:hover, .sites:hover, .contact:hover, .facebook:hover
+  - color:#8b07bb;
+- sites
+  - color:#c81f1f;
 
 
 ### **Typography**
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@435&family=Playfair+Display:ital,wght@0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Rubik+Doodle+Shadow&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
 
 ### **Images**
 
 ## **Features**
 
 ### **Language Used**
+  - English
+  - Tagalog
+  - Cebuano / Bisaya
 
 ### **Navigation Bar**
 
 ### **Landing Page**
-
-### **About Me**
 
 ### **Footer**
 
@@ -92,8 +125,13 @@ Since this a blog of my own personal experience which aims to help people with t
 ## **Testing**
 
 ### **HTML Validatior Test**
+  ![Index.html](images/indexValidate.png)
+  ![mystory.html](images/mystory.png)
+  ![visaprocess.html](images/visaprocess.png)
+  ![contact.html](images/contact.png)
 
 ### **CSS Validator Test**
+
 
 ### **Lighthouse Mobile**
 
@@ -101,10 +139,10 @@ Since this a blog of my own personal experience which aims to help people with t
 
 ### **Website Functions**
 
-## **Libraries and Progransms used**
+## **Libraries and Programs used**
 - Github: Store Repository
 - Gitpod: To create the html and css file
-- Google Fonts: Font family 'Roboto'
+- Google Fonts: Font family "Playfair", sans-serif;
 - ev Tools: For styling and lighthouse
 - Safari: Site testing on an alternative browser
 - Font Awesome: Dropdown menu icon
@@ -119,6 +157,7 @@ Since this a blog of my own personal experience which aims to help people with t
 ### **How to Clone**
 
 ## **Credits**
+
 
 ### **Media**
   
