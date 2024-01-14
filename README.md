@@ -16,6 +16,7 @@ My aim for this website is to help my fellow Filipino Citizen Mena and Women obt
     - [**New User Goal**](#new-user-goal)
     - [**Communication**](#communication)
   - [**Design**](#design)
+    - [**Balsamiq**](#Balsamiq)
     - [**Colour Palette**](#colour-palette)
     - [**Typography**](#typography)
     - [**Images**](#images)
@@ -66,6 +67,12 @@ My target audience are people from my country of origin.
 Since this a blog of my own personal experience which aims to help people with their visa application. I am focused on a simple website that uses easy on the eyes shades. I have added a video on the process page to provide visual learners a choice and as well a downloadable template if they choose to have something to read.
 
 ## **Design**
+
+### **Balsamiq**
+  - Desktop view
+    - https://balsamiq.cloud/suyddyd/pxtmatu/rCE79
+  - Mobile view
+    - https://balsamiq.cloud/suyddyd/pmtg4oi/r7DFF
 
 ### **Colour Palette**
 - Body 
@@ -161,3 +168,6 @@ Since this a blog of my own personal experience which aims to help people with t
 
 ### **Media**
   
+
+
+[def]: #Balsamiq
