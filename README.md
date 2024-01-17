@@ -1,6 +1,10 @@
 # Visa Chronicles
 
-My aim for this website is to help my fellow Filipino Citizen Mena and Women obtain their Spouse Visa to reunite to the person they love. Obtaining a spouse visa can be a tedious and heartbreaking process but would all be worth it in the end. I am hoping that this website will be a helpful guide for interacial couple go through the process of their Visa Application smoothly and to also prepare them to the life in UK.
+### Welcome to Visa Chronicles!
+
+This website is a blog guide for spouse visa applicants for the UK. The website has a easy navigation which aims user to get all the information they need to process their Spouse Visa. 
+
+
 
 ...! This is where I put the photo of my web design...
 
@@ -11,12 +15,11 @@ My aim for this website is to help my fellow Filipino Citizen Mena and Women obt
   - [**UX**](#ux)
     - [**Site Purpose**](#site-purpose)
     - [**Site Goal**](#site-goal)
-    - [**Audience**](#audience)
     - [**Current User Goal**](#current-user-goal)
     - [**New User Goal**](#new-user-goal)
     - [**Communication**](#communication)
   - [**Design**](#design)
-    - [**Balsamiq**](#Balsamiq)
+    - [**Wireframe**](#Balsamiq)
     - [**Colour Palette**](#colour-palette)
     - [**Typography**](#typography)
     - [**Images**](#images)
@@ -32,7 +35,7 @@ My aim for this website is to help my fellow Filipino Citizen Mena and Women obt
     - [**Lighthouse Mobile**](#lighthouse-mobile)
     - [**Lighthouse Desktop**](#lighthouse-desktop)
     - [**Website Functions**](#website-functions)
-  - [**Libraries and Progransms used**](#libraries-and-progransms-used)
+    - [**Libraries and Progransms used**](#libraries-and-progransms-used)
   - [**Deployment \& Usage**](#deployment--usage)
     - [**Deployment**](#deployment)
     - [**How to Fork**](#how-to-fork)
@@ -44,36 +47,40 @@ My aim for this website is to help my fellow Filipino Citizen Mena and Women obt
 
 ### **Site Purpose**
 
-This website are for my fellow Filipino's Men and Women who are seeking for information and guide on how to process a Spouse Visa to the UK.
+### Website Purpose:
+#### What For:
+This Website is a blog website that provides information about the Process of applying for a spouse visa to the UK. It provides general information on the process and as well as my own personal experience processing the visa. 
+-	My Story Page – Provides detailed information on what I went through and what documents I have provided to Home office to satisfy the requirement outlined. 
+-	Visa Process Page – Provides General Information and steps on how to acquire Spouse Visa, they might find my visa journey a little bit or a lot different to what they might go through. 
+
+I can be a little bit confusing and daunting browsing through multiple immigration website and as well as Gov.UK.  But with the help of my website they will find key information on what to do first and what to prepare. 
+
+
+#### Who For: 
+The website is for my fellow Filipinos who are confused with the process of their spouse visa application. 
+
 
 ### **Site Goal**
 
-This site provides a relatively easier and step by step guide for Spouse Visa Application.
-
-### **Audience**
-
-My target audience are people from my country of origin.
+My Goal is to provide a usuable guide for all my fellow Filipinos who are seeking assistance for their spouse visa. This site can also be used as guide for other nationalities as the website itself has a page which provides general information with tips and direct links to Home Office Guidelines. 
 
 ### **Current User Goal**
-- Links to website on where to download the application forms.
-- Maps to show where they can submit their application forms.
-- Video, that shows the process of the application.
+- Links to website on where to fill the application forms.
+- links to show where they can submit their application documents and get your Biometrics done.
+- Video, that shows how to fill the form.
+- Contact Informtion for Legal Representation if they need one. 
 - Contact Us
-### **New User Goal**
 
+### **New User Goal**
+A fully working Contact Page which they can send me their questions tregarding the visa process
 
 ### **Communication**
-
-Since this a blog of my own personal experience which aims to help people with their visa application. I am focused on a simple website that uses easy on the eyes shades. I have added a video on the process page to provide visual learners a choice and as well a downloadable template if they choose to have something to read.
+Since this a blog of my own personal experience which aims to help people with their visa application. I am focused on a simple website that uses easy on the eyes shades. I have added a video on the process page to provide visual learners a choice.
 
 ## **Design**
 
-### **Balsamiq**
-  - Desktop view
-    - https://balsamiq.cloud/suyddyd/pxtmatu/rCE79
-  - Mobile view
-    - https://balsamiq.cloud/suyddyd/pmtg4oi/r7DFF
-
+### **Wireframe**
+ 
 ### **Colour Palette**
 - Body 
   - background-color: #dcf3ef
@@ -110,11 +117,22 @@ Since this a blog of my own personal experience which aims to help people with t
 
 
 ### **Typography**
-@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@435&family=Playfair+Display:ital,wght@0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Rubik+Doodle+Shadow&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+Fair Play and Sans-Serif 
 
 ### **Images**
+Home Page:
+- Shuttershock (Paid Subscription)
+- A Photo of me ( To present myself as the blogger)
+
+My Story Page:
+- Personal Photos of my Family
+  - This page is my own personal experience on the visa process and I thought adding photos of my family would be a great way to show family life in the UK. 
+
 
 ## **Features**
+ - Responsive on all device sizes
+
+ - Interactive elements
 
 ### **Language Used**
   - English
@@ -132,10 +150,10 @@ Since this a blog of my own personal experience which aims to help people with t
 ## **Testing**
 
 ### **HTML Validatior Test**
-  ![Index.html](images/indexValidate.png)
-  ![mystory.html](images/mystory.png)
-  ![visaprocess.html](images/visaprocess.png)
-  ![contact.html](images/contact.png)
+  ![Index.html](assets/readme-images/indexValidate.png)
+  ![mystory.html](assets/readme-images/mystory.png)
+  ![visaprocess.html](assets/readme-images/visaprocess.png)
+  ![contact.html](assets/readme-images/contact.png)
 
 ### **CSS Validator Test**
 
@@ -147,6 +165,7 @@ Since this a blog of my own personal experience which aims to help people with t
 ### **Website Functions**
 
 ## **Libraries and Programs used**
+- Bootstrap 5.0
 - Github: Store Repository
 - Gitpod: To create the html and css file
 - Google Fonts: Font family "Playfair", sans-serif;
@@ -168,5 +187,3 @@ Since this a blog of my own personal experience which aims to help people with t
 ### **Media**
   
 
-
-[def]: #Balsamiq
