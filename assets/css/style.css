@@ -33,7 +33,9 @@ body {
 
     
 .callout-container {
-    height: 90vh;
+    width:100%;
+    height:auto;
+    /* height: 90vh; */
     background: url("../images/visa2.jpg") no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -41,6 +43,11 @@ body {
     background-size: cover;  
     align-items: center;
     justify-content: center;
+}
+
+.callout-container h1 {
+    width:100%;
+    height:auto;
 }
 
 .jumbotron-header {
@@ -114,7 +121,7 @@ h2 {
 
 i {
     margin-top: 50px;
-    margin-right: 300px;
+    margin-right: 200px;
     font-size: 3em;
     color: #3a2c39;
 }   
@@ -159,7 +166,6 @@ footer p {
     }
 
 }
-
 
 
 /* -------Visa Process */
