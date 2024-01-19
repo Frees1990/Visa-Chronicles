@@ -44,11 +44,13 @@ body {
 }
 
 .jumbotron-header {
-    color: white;
-    font-weight: bold;
-    margin-top: 170px;
+    color: rgb(139, 177, 5);
+    font-size: 4rem;
+    -webkit-text-stroke: 2px black;
+    font-weight: 800;
+    margin-top: 300px;
     margin-bottom: 30px;
-    position: relative;
+    
 }
 
 .rounded-image {
@@ -246,4 +248,38 @@ h3 {
  h5 {
     margin-top: 50PX;
     margin-bottom: 50px;
+ }
+
+
+ /* ----Documents.html--- */
+
+ .Document-header {
+    text-align: center;
+    margin-top: 50px;
+ }
+
+ .Document-header p {
+    margin-top: 30px;
+    font-size: x-large;
+ }
+
+ hr {
+    color: #8b07bb;
+    margin-left: 50px;
+    margin-right: 50px;
+ }
+
+ .Document-Middle {
+    margin-top: 50px;
+    background-color: #0a776e;
+ }
+
+ .Document-Middle a {
+    color:#19b91b;
+    text-decoration: none;
+    font-size: smaller;
+ }
+
+ .Document-Middle a:hover {
+    color:#8b07bb;
  }
