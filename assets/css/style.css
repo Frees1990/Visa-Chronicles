@@ -269,10 +269,16 @@ h3 {
     margin-right: 50px;
  }
 
- .Document-Middle {
-    margin-top: 50px;
-    background-color: #0a776e;
+ .letstart {
+    margin-top: 20px;
  }
+
+ .Document-Middle {
+    margin-top: 10px;
+    background-color: #0a776e;
+    margin-bottom: 10px;
+ }
+    
 
  .Document-Middle a {
     color:#19b91b;
@@ -282,4 +288,24 @@ h3 {
 
  .Document-Middle a:hover {
     color:#8b07bb;
+ }
+
+ .Document-Difficult {
+    margin-top: 10px;
+    background-color: #038296;
+    margin-top: 10px;
+ }
+
+ .Document-Difficult a {
+    color:#19b91b;
+    text-decoration: none;
+    font-size: smaller;
+ }
+
+ .Document-Difficult a:hover {
+    color:#8b07bb;
+ }
+
+ .bitwork {
+    margin-top: 20px;
  }
