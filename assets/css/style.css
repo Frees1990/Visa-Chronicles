@@ -119,13 +119,13 @@ h2 {
     width: 100%;
     }
 
-i {
+#socialicon i {
     margin-top: 50px;
     margin-right: 200px;
     font-size: 3em;
     color: #3a2c39;
 }   
-i:hover{
+#socialicon i:hover{
     color: #8b07bb;
 }
 
@@ -269,12 +269,6 @@ h3 {
     font-size: x-large;
  }
 
- hr {
-    color: #8b07bb;
-    margin-left: 50px;
-    margin-right: 50px;
- }
-
  .letstart {
     margin-top: 20px;
  }
@@ -314,4 +308,27 @@ h3 {
 
  .bitwork {
     margin-top: 20px;
+ }
+
+ .fa-regular .fa-face-kiss-wink-heart {
+    font-size: small;
+ }
+ 
+ .IntroMS p {
+    margin-top: 20px;
+ }
+
+ .VSclass {
+    color:#038296;
+    font-size: 1em;
+    font-weight: 600;
+    text-decoration: none;
+ }
+
+ .VSclass:hover {
+    color:#7a098b
+ }
+
+ .Confirmation {
+    text-align: center;
  }
