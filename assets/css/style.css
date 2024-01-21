@@ -173,7 +173,7 @@ blockquote h3{
     color:#7a098b
  }
 
- #clover {
+ .IntroMS h5 i{
     font-size: x-large;
     color: #19b91b;
  }
@@ -240,6 +240,13 @@ blockquote h3{
     font-size: xx-large;
  }
 
+ .steps ol {
+    margin-left: 10px;
+ }
+
+ .steps h5 {
+    margin-top: 30px;
+ }
 
 /* ----Visa Process---- */
 
@@ -375,13 +382,13 @@ blockquote h3{
 }
 
 
- 
-
-
-
-
  .Confirmation {
     text-align: center;
+    margin-top: 30px;
+ }
+
+ .Confirmation h5 {
+    margin-top: 30px;
  }
 
 

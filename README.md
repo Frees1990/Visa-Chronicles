@@ -150,7 +150,7 @@ My Story Page:
 ## **Testing**
 
 ### **HTML Validatior Test**
-  ![Index.html](assets/readme-images/indexValidate.png)
+  ![Index.html](assets/readme-images/index.png)
   ![mystory.html](assets/readme-images/mystory.png)
   ![visaprocess.html](assets/readme-images/visaprocess.png)
   ![contact.html](assets/readme-images/contact.png)
