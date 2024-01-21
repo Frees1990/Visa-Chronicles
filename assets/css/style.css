@@ -187,6 +187,7 @@ blockquote h3{
     width:100%;
     height:auto;
     margin-top: 30px;
+    margin-bottom: 30px;
     background-color: #b4ece3;
     background-size: cover;
  }
@@ -213,6 +214,30 @@ blockquote h3{
     margin-left: 20px;
     font-siz: large;
 
+ }
+
+ .steps h4{
+    text-align: center;
+    background-color: #3a2c39;
+    color:#dcf3ef;
+    margin-top: 30px;
+    font-size: 2em;
+ }
+
+ .steps h6 {
+    margin-top: 50px;
+    text-align: center;
+    color: red;
+ }
+
+ .steps h3 {
+    margin-top: 50px;
+    text-align: center;
+ }
+
+ #poo {
+    color: rgba(94, 49, 49, 0.602);
+    font-size: xx-large;
  }
 
 
