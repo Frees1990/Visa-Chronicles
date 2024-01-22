@@ -1,6 +1,7 @@
 # Visa Chronicles
 
 ### Welcome to Visa Chronicles!
+![UI](assets/readme-images/UI.png)
 
 This website is a blog guide for spouse visa applicants for the UK. The website has a easy navigation which aims user to get all the information they need to process their Spouse Visa. 
 
