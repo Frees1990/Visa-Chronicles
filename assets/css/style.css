@@ -6,6 +6,7 @@ body {
     font-family: "Playfair", sans-serif;
     text-align: justify;
     background-color: #dcf3ef;
+    -webkit-text-size-adjust: 100%;
     
 }
 
@@ -73,6 +74,7 @@ footer p {
     height:auto;
     /* height: 90vh; */
     background: url("../images/visa2.jpg") no-repeat fixed;
+    display: inline-block;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -212,7 +214,6 @@ blockquote h3{
  .steps p {
     margin-top: 20px;
     margin-left: 20px;
-    font-siz: large;
 
  }
 
@@ -397,16 +398,13 @@ blockquote h3{
 /* For small screens sizes from 600px wide and down */
 @media screen and (max-width: 600px) {
 
-    .callout-container {
-        width: 100%;
-        height:auto;
-        background: url("../images/visa2.jpg") no-repeat fixed;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;  
+    .quote {
+        margin-top: 70px;
+        margin-bottom: 20px;
         align-items: center;
         justify-content: center;
+        color: #0f0f0f;
+    
     }
 
     .center {
@@ -431,4 +429,66 @@ blockquote h3{
         margin-left: 20px;
     }
 
+}
+
+
+/* Media queries */
+
+/* For large to medium screens sizes from 1200px wide and down */
+@media screen and (max-width: 1200px){
+
+    .center {
+        text-align: center;
+        width: 100%;
+    }
+    
+    #socialicon i {
+        margin-top: 50px;
+        color: #3a2c39;
+        margin-right: 50px;
+    }   
+    
+    .rounded-image {
+        margin-top: 50px;
+        align-items: center;
+        justify-content: center;
+        width: 300px;
+        height: 300px;
+        padding: 30px;
+        border-style: solid;
+        border-color: #0b0909;
+        border-width: 1px;
+        border-radius: 50%;
+    }
+    }
+
+    .marriage-image {
+        max-width: 300px;
+        max-height: 300px;
+        margin-left: 20px;
+    }
+
+/* For medium screens sizes from 950px wide and down */
+@media screen and (max-width: 950px){
+
+    .center {
+        text-align: center;
+        width: 100%;
+    }
+    
+    #socialicon i {
+        margin-top: 50px;
+        color: #3a2c39;
+        margin-right: 50px;
+    }   
+    
+    .rounded-image {
+        display: none;
+    }
+
+    .marriage-image {
+        max-width: 300px;
+        max-height: 300px;
+        margin-left: 20px;
+    }
 }
