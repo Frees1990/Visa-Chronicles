@@ -51,9 +51,11 @@ This website is a blog guide for spouse visa applicants for the UK. The website 
 #### What For:
 This Website is a blog website that provides information about the Process of applying for a spouse visa to the UK. It provides general information on the process and as well as my own personal experience processing the visa. 
 -	My Story Page – Provides detailed information on what I went through and what documents I have provided to Home office to satisfy the requirement outlined. 
--	Visa Process Page – Provides General Information and steps on how to acquire Spouse Visa, they might find my visa journey a little bit or a lot different to what they might go through. 
+-	Visa Process Page – Provides General Information and steps on how to acquire Spouse Visa, they might find my visa journey a little bit or a lot different to what they might go through. Reason why I created the Visa Process page to give them the General guideline to process their visa. 
 
 I can be a little bit confusing and daunting browsing through multiple immigration website and as well as Gov.UK.  But with the help of my website they will find key information on what to do first and what to prepare. 
+
+-Links to Filipino Group and Contact Page, not everybody has the same circumstances so we have a Facebook Page group that they can join and post any questions about the visa. We have over 3,000 members who mnight be able to answer their specific inquiry. I made a separate contact page that currently is not working at the moment and will be soon when I get through the JAVASCRIPT module. This page is made for people who are uncomfortable asking questions to the public. They can send me their questions, I might be able to know, probably not but I would certainly be able to represent them in the page if needs to be. 
 
 
 #### Who For: 
@@ -62,24 +64,41 @@ The website is for my fellow Filipinos who are confused with the process of thei
 
 ### **Site Goal**
 
-My Goal is to provide a usuable guide for all my fellow Filipinos who are seeking assistance for their spouse visa. This site can also be used as guide for other nationalities as the website itself has a page which provides general information with tips and direct links to Home Office Guidelines. 
+My Goal is to provide a usuable and easy to navigate guide for all my fellow Filipinos who are seeking assistance for their spouse visa. This site can also be used as guide for other nationalities as the website is written in English and has a page which provides general information with tips and direct links to Home Office Guidelines. 
 
 ### **Current User Goal**
 - Links to website on where to fill the application forms.
 - links to show where they can submit their application documents and get your Biometrics done.
 - Video, that shows how to fill the form.
-- Contact Informtion for Legal Representation if they need one. 
+ Note: This walkthrough video is very usefull to everyone becuase the form can be a litte tricky and confusing. This video is not made by me but was recommended by the Filipino community as this was made by a Solicitor who practice immigration law. 
 - Contact Us
 
 ### **New User Goal**
-A fully working Contact Page which they can send me their questions tregarding the visa process
+A Fully working Contact Page which they can send me their questions regarding the visa process (This will be fullfilled during my 2nd milestone project which covers Javascript)
 
 ### **Communication**
-Since this a blog of my own personal experience which aims to help people with their visa application. I am focused on a simple website that uses easy on the eyes shades. I have added a video on the process page to provide visual learners a choice.
+The site is a Blog created mainly for guidance, I didnt worry to much about the design but focused on the content and how user friendly the site will be. I have chosen a basic structure that is easy to navigate and understand. 
 
 ## **Design**
 
 ### **Wireframe**
+My wireframe may differ from the final outcome. 
+
+### WEBPAGE VIEW
+  ![Home Page](assets/readme-images/B1.png)
+  ![My Story Page](assets/readme-images/B2.png)
+  ![Visa Process Page](assets/readme-images/B3.png)
+  ![Documents Page](assets/readme-images/B4.png)
+  ![Contact Page](assets/readme-images/B5.png)
+
+
+### MOBILE VIEW
+  ![MHome Page](assets/readme-images/p1.png)
+  ![MMy Story Page](assets/readme-images/p2.png)
+  ![MVisa Process Page](assets/readme-images/p3.png)
+  ![MDocuments Page](assets/readme-images/p4.png)
+  ![MContact Page](assets/readme-images/p5.png)
+
  
 ### **Colour Palette**
 - Body 
@@ -117,27 +136,26 @@ Since this a blog of my own personal experience which aims to help people with t
 
 
 ### **Typography**
-Fair Play and Sans-Serif 
+Playfair and Sans-Serif 
 
 ### **Images**
-Home Page:
+#### Home Page:
 - Shuttershock (Paid Subscription)
 - A Photo of me ( To present myself as the blogger)
 
-My Story Page:
+#### My Story Page:
 - Personal Photos of my Family
   - This page is my own personal experience on the visa process and I thought adding photos of my family would be a great way to show family life in the UK. 
 
+#### Visa Process Page:
+- Shuttershock (Paid Subscription)
+- Video (Permission from happyvisas.com)
 
 ## **Features**
  - Responsive on all device sizes
 
- - Interactive elements
-
 ### **Language Used**
   - English
-  - Tagalog
-  - Cebuano / Bisaya
 
 ### **Navigation Bar**
 
