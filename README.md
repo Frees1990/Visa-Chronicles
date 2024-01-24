@@ -153,29 +153,81 @@ Playfair and Sans-Serif
 - Video (Permission from happyvisas.com)
 
 ## **Features**
- - Responsive on all device sizes
+ -  Home Page
+ -  My Journey Page
+ -  Visa Process Page
+ -  Documents Page
+ -  Contact Page (This will be modified as soon as I am done with the Javascript module to make it more interactive)
+ -  Confirmation page
+
 
 ### **Language Used**
   - English
+    - Although my main aim is to help my fellow Filipino with their inquiries about their visa. The website itself has its own page that has a standard application process which can be used by any nationality that is seeking information for the visa process 
 
 ### **Navigation Bar**
+- I have used Bootstrap for my Navigation bar which basic functionality for easy use. Using Bootstrap helps with the mobile first functionality of my website. Apart from this I have also added a highlight on the current page that the user is on. 
 
 ### **Landing Page**
+- My landing page speaks for itself, the cover photo shows what the site is for and about. It also has my personal introduction which explains about the site. 
 
 ### **Footer**
+- Social Media links which uses fontawesome icons to make it look appealing.
 
 ### **Future Features**
+- Once I gone through the Javascript section of the course I would like to make the contact page interactive. 
+- I would like to do more pages that talks about the next visas that they will be processing after the spouse visa. I could not do that at the moment because I have not been through it yet as well, this site is base in my experience and would like to write the process through my experience. 
 
 ## **Testing**
+### Bugs and Issues
+  - ##### IDE issues
+    -  During the initial stage of coding my project I encountered quite a lot of trouble using codeanywhere, where a lot of my changes are not reflecting this has wastes a lot of my study time as this made me destroy my workspace and create a new one again. It takes a while to load up the template good thing that everything is saved up on Github. And as soon as I have created a new workspace the changes I made are now reflected in the website. Halfway my project journey I have decided to use differnt IDE which is Gitpod as it seems to be a preferred IDE amongst my peers. I haven't had the same issue again.
+
+  - #### Code Issues
+    - Most of the issues of my code are self-inflicted meaning, I have a missing closing div or I have not nested my list properly, and or my closing li tags are not in the right line. 
+    - Inheriting styles/colors:
+
+          The colors keep inheriting which is my fault becuase everything was not specified and it targeted all the p's and h's tag. This took me a while to edit. 
+    - Making my website responsive to screen size:
+
+          Apart from bootstrap I also have used media queries which I followed from "LOVE RUNNING mini project"
+
+
+
+  - #### Path Issues 
+    - During the first stage of developing my site, one of the things I have added first is the background photo of my homepage, I have the right code and the right file path. So I wasn't sure what was going on. 
+    THINGS I DID TO RESOLVE THIS:
+      - I have re-structured my file path and this has worked for me. 
+      instead of this:   
+      assets/images/filename.jpg 
+      
+        I restructured this to look like this instead: 
+        
+        /images/filename.jpg
+
+    Then this led me to the next problem (See Below:)
+
+  - #### Deployment Issues  
+
+    - I deployed my work to see the result and to see what needs fixing. I was in shock as everything was in shambles. The images were no where to be found. 
+  sending my massive thank you to my Mentor Daniel Hamilton who made me realized my mistake because before I spoke to him about it, I was close to giving up because I could not understand what was going on. 
+
+  Reverted to my original file path and concluded that the reason why my images did not load up in my IDE in the first place is becuase I have been having issues with codeanywhere. 
+
 
 ### **HTML Validatior Test**
+
+    It showed quite a few errors that I have already fixed but I wasn't able to get a screenshot of. 
+
   ![Index.html](assets/readme-images/index.png)
   ![mystory.html](assets/readme-images/mystory.png)
   ![visaprocess.html](assets/readme-images/visaprocess.png)
+  ![documents.html](assets/readme-images/documents.png)
   ![contact.html](assets/readme-images/contact.png)
+  ![confirm.html](assets/readme-images/confirm.png)
 
 ### **CSS Validator Test**
-
+  ![css](assets/readme-images/css.png)
 
 ### **Lighthouse Mobile**
 
@@ -185,8 +237,8 @@ Playfair and Sans-Serif
 
 ## **Libraries and Programs used**
 - Bootstrap 5.0
-- Github: Store Repository
-- Gitpod: To create the html and css file
+- Github: Store Repositor
+- Gitpod/Codeanywhwere: To create the html and css file
 - Google Fonts: Font family "Playfair", sans-serif;
 - ev Tools: For styling and lighthouse
 - Font Awesome: Dropdown menu icon
