@@ -23,13 +23,14 @@ body {
 
 .navbar-brand{
     margin-left: 20px;
-    font-size: 4vw;
+    font-size: 3vw;
     font-weight: 800;
     margin-right: 70px;
 }
 
 .navbar .navbar-nav a{
     margin-right: 20px;
+    font-size: x-large;
     font-weight: bold;
 }
 
