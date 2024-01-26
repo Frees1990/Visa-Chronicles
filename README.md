@@ -283,6 +283,13 @@ These are the steps:
 The Idea is to make the contact page look interactive and to show the benefits of it. 
   -  Daniel Hamilton
 
+- Embed video instructions from
+  - Code Institue 
+  - W3schools
+
+- Some content from
+  - https://www.legislation.gov.uk/ukpga/1985/68/contents
+
 ### **Media**
 
 Media are either personal Photos or paid subscription from shutterstock. 
