@@ -35,7 +35,7 @@ This website is a blog guide for spouse visa applicants for the UK. The website 
     - [**CSS Validator Test**](#css-validator-test)
     - [**Lighthouse Mobile**](#lighthouse-mobile)
     - [**Libraries and Progransms used**](#libraries-and-progransms-used)
-  - [**Deployment \& Usage**](#deployment--usage)
+  - [**Deployment & Usage**](#deployment--usage)
     - [**Deployment**](#deployment)
     - [**How to Fork**](#how-to-fork)
     - [**How to Clone**](#how-to-clone)
@@ -247,16 +247,44 @@ Playfair and Sans-Serif
 - Squoosh app/editor
 
 ## **Deployment & Usage**
-
 ### **Deployment**
+To deploy my site on Git Hub I made the following steps. I found out how to deploy my project when I was playing around with github trying to fix my incorrect path which hinders my images to load up on live. 
+
+These are the steps:
+
+ - Go to the Settings tab of your GitHub repo.
+ - On the left-hand sidebar, in the Code and automation section, select Pages.
+ - Make sure: Source is set to 'Deploy from Branch'.
+ - Main branch is selected.
+ - Folder is set to / (root).
+ - Under Branch, click Save.
+ - Go back to the Code tab. Wait a few minutes for the build to 
+ - finish and refresh your repo.
+ - On the right-hand side, in the Environments section, click on 'github-pages'.
+ - Click View deployment to see the live site
 
 ### **How to Fork**
 
 ### **How to Clone**
 
 ## **Credits**
-
+ - How to fill out online form video 
+    - happyvisas.com 
+ - Problems with deployment when images were not loading up
+    - initial information was from Stackoverflow but nothing was copied from them. 
+    - Guidance was given by my mentor Danielle Hamilton.
+- compressing Images
+  - https://squoosh.app/
+- hiding images when screen size minimize
+  - Taken from bootstrap mini project course. 
+- Visa Information
+  - Gov.UK 
+- Confirmation Page Idea (This is will be made interactive during Java script milestone)
+The Idea is to make the contact page look interactive and to show the benefits of it. 
+  -  Daniel Hamilton
 
 ### **Media**
+
+Media are either personal Photos or paid subscription from shutterstock. 
   
 
