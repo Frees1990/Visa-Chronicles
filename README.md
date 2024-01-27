@@ -228,13 +228,7 @@ Playfair and Sans-Serif
   ![css](assets/readme-images/css.png)
 
 ### **Lighthouse Desktop/Mobile**
-- Tried to fix site to pass lighthouse performance managed to get all the pages higher than 70%
 
-    These are the fixes I have done - 
-
-      - The image I used in my homepage and as well the image in my visa process page seems to impact the perfromance of my site. Used "https://squoosh.app/editor" to compressed the image. From 45% it helped to get my performance go up to 85%
-
-      - Minify my CSS, anything that has the same attributes I have placed together to compress my CSS file which helped my site performance to get to 90% 
 
 ## **Libraries and Programs used**
 - Bootstrap 5.0
