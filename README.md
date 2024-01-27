@@ -37,8 +37,6 @@ This website is a blog guide for spouse visa applicants for the UK. The website 
     - [**Libraries and Progransms used**](#libraries-and-progransms-used)
   - [**Deployment & Usage**](#deployment--usage)
     - [**Deployment**](#deployment)
-    - [**How to Fork**](#how-to-fork)
-    - [**How to Clone**](#how-to-clone)
   - [**Credits**](#credits)
     - [**Media**](#media)
 
@@ -229,6 +227,23 @@ Playfair and Sans-Serif
 
 ### **Lighthouse Desktop/Mobile**
 
+- I ran the lighthouse both in google chrome and incognito mode in mobile and as well desktop. 
+The First time I ran it it gave me : 
+
+  - 43% perfromance and 100% on accessibility, Best Practice and SEO for my home page.
+  - 75% perfromance 100% on accessibility, Best Practice and SEO.
+  - 56% perfomance 100% on accessibility, Best Practice and SEO.
+  - 99% performance 100% on accessibility, Best Practice and SEO.
+  - 100% performance 100% on accessibility, Best Practice and SEO.
+
+
+   I read through the list of things that I could improve on. One of them is compressing my images from Home page and Visa Process page which I did, after compressing my image, uploading it and pushed it on Github. 
+   
+   I tried ruinning lighthouse again, it gave me :
+   - 75% perfromance, 80%  accessibility, 100% Best Practice and 89% SEO.
+   Unfortunately, I wasn't able to screenshot the above and could not remember the rest. I do not understand why it affected the accessiblity and the SEO. I was reading through it and it's citing my CDN's but I cannot delete my CDN's beause they are necessary for my bootstrap code. 
+
+The mose confusing part after hours and hours finding a way for it to get a green, I finally gave up. Open my deployed site again the next day and is now giving me a different score. This part of testing took me 4 days 5 hrs each day and still could not understand, unfortunately its nearly time to submit my project and I will ready through about lighthouse in my own pace to understand how it works. At the moment, to be honest I have no clue what I am doing with lighthouse but it would be interesting to find out what I did wrong and what I can do to achieve full marks on this testing. 
 
 ## **Libraries and Programs used**
 - Bootstrap 5.0
@@ -256,10 +271,6 @@ These are the steps:
  - finish and refresh your repo.
  - On the right-hand side, in the Environments section, click on 'github-pages'.
  - Click View deployment to see the live site
-
-### **How to Fork**
-
-### **How to Clone**
 
 ## **Credits**
  - How to fill out online form video 
