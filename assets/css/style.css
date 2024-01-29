@@ -47,7 +47,7 @@ body {
 
 #socialicon i {
     margin-top: 50px;
-    font-size: 4vw;
+    font-size: 3vw;
     color: #3a2c39;
     margin-right: 250px;
 }   
@@ -81,6 +81,7 @@ footer p {
     background-size: cover;  
     align-items: center;
     justify-content: center;
+    
 }
 
 .callout-container h1 {
@@ -395,7 +396,6 @@ blockquote h3{
 
 
  /*------Media Queries-----*/
-/* For small screens sizes from 600px wide and down */
 @media only screen and (min-width: 200px) and (max-width: 767px)  {
     .navbar-brand{
         margin-left: 20px;
@@ -405,7 +405,7 @@ blockquote h3{
     }
     .jumbotron {
         color: rgb(139, 177, 5);
-        font-size: 1.5em;
+        font-size: 1.3em;
         font-weight: 800;
         margin-top: 300px;
         margin-bottom: 10px;
@@ -428,7 +428,7 @@ blockquote h3{
     
     #socialicon i {
         margin-top: 50px;
-        font-size: 3vw;
+        font-size: 2em;
         color: #3a2c39;
         margin-right: 50px;
     }   
@@ -445,10 +445,7 @@ blockquote h3{
 
 }
 
-
-
-/* For medium screens sizes from 950px wide and down */
-@media screen and (min-width: 768px) and (max-width: 950px){
+@media screen and (min-width: 768px) and (max-width: 1024px){
     .navbar-brand{
         margin-left: 20px;
         font-size: 2em;
@@ -462,8 +459,9 @@ blockquote h3{
     
     #socialicon i {
         margin-top: 50px;
+        font-size: 3em;
         color: #3a2c39;
-        margin-right: 50px;
+        margin-right: 90px;
     }   
 
     .rounded-image {
@@ -486,8 +484,7 @@ blockquote h3{
     }
 }
 
-/* For large to medium screens sizes from 1200px wide and down */
-@media screen and (mamin-width: 950px)and (max-width: 1200px){
+@media screen and (mamin-width: 1025px)and (max-width: 1200px){
     .navbar-brand{
         margin-left: 20px;
         font-size: 2em;
