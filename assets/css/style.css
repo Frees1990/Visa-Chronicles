@@ -73,8 +73,7 @@ footer p {
 .callout-container {
     width:100%;
     height:auto;
-    /* height: 90vh; */
-    background: url("../images/visa2.jpg") no-repeat fixed;
+    background: url("../images/visa.webp") no-repeat fixed;
     display: inline-block;
     -webkit-background-size: cover;
     -moz-background-size: cover;
