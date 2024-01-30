@@ -112,7 +112,7 @@ footer p {
     border-radius: 50%;
 }
 
-blockquote h3{
+blockquote h2{
     margin-bottom: 30px;
     font-weight: 600;
 }
@@ -150,7 +150,7 @@ blockquote h3{
 
 /* ---- My Story---- */
 
- .IntroMS h3 {
+ .IntroMS h1 {
     margin-top: 50px;
     font-weight: 600;
  }
@@ -176,14 +176,15 @@ blockquote h3{
     color:#7a098b
  }
 
- .IntroMS h5 i{
+ .IntroMS h2 i{
     font-size: x-large;
     color: #19b91b;
  }
 
- .IntroMS h5 {
+ .IntroMS h2 {
     text-align: center;
     margin-top: 30px;
+    font-size: x-large;
  }
 
  article {
@@ -195,12 +196,16 @@ blockquote h3{
     background-size: cover;
  }
 
- .steps h4{
+ .steps h3{
     text-align: center;
     background-color: #3a2c39;
     color:#dcf3ef;
     margin-top: 30px;
     font-size: 2em;
+ }
+
+ .ending h4{
+    text-align: center;
  }
 
  .steps li {
@@ -215,10 +220,9 @@ blockquote h3{
  .steps p {
     margin-top: 20px;
     margin-left: 20px;
-
  }
 
- .steps h4{
+ .steps h3{
     text-align: center;
     background-color: #3a2c39;
     color:#dcf3ef;
@@ -226,10 +230,10 @@ blockquote h3{
     font-size: 2em;
  }
 
- .steps h6 {
+ .ending h5 {
     margin-top: 50px;
     text-align: center;
-    color: red;
+    color:#07332c
  }
 
  .steps h3 {
@@ -237,7 +241,7 @@ blockquote h3{
     text-align: center;
  }
 
- #poo {
+.ending i{
     color: rgba(94, 49, 49, 0.602);
     font-size: xx-large;
  }
@@ -263,14 +267,13 @@ blockquote h3{
     border-width: 1px;
 }
 
-.marriage h3 {
+.marriage h1, .qualification h1, .form-vid h2, .UKFinancialReq h1, .accommodation h1,
+.english h1, .supporting h1, .apply h1, .cost h1{
     margin-top: 50px;
     margin-bottom: auto;
     font-weight: 800;
-
+    font-size: xx-large;
 }
-
-
 .videoWrapper {
     position: relative;
     padding-bottom: 56.25%; /* 16:9 */

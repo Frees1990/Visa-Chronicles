@@ -5,10 +5,6 @@
 
 This website is a blog guide for spouse visa applicants for the UK. The website has a easy navigation which aims user to get all the information they need to process their Spouse Visa. 
 
-
-
-...! This is where I put the photo of my web design...
-
 ## Table of Contents
 
 - [Visa Chronicles](#visa-chronicles)
