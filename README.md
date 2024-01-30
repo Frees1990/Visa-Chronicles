@@ -145,12 +145,50 @@ Playfair and Sans-Serif
 - Video (Permission from happyvisas.com)
 
 ## **Features**
- -  Home Page
- -  My Journey Page
- -  Visa Process Page
- -  Documents Page
- -  Contact Page (This will be modified as soon as I am done with the Javascript module to make it more interactive)
- -  Confirmation page
+### NAVIGATION BAR ON ALL PAGES WITH ACTIVE HIGHLIGHT
+  ![Nav Bar](assets/readme-images/Navbar.png)
+
+   -  I think the most important thing about a website is the navigation bar, to me it should not be complicated to use it and it should be visible with easy to the eyes color. My navbar turns into a toggle button when the screen size go smaller. The Navigation bar also highlights what page the user is currently in. 
+
+### SHORT DESCRIPTIVE TEXT ABOUT THE SITE AND PHOTO OF THE CONTENT CREATOR
+
+  ![description](assets/readme-images/description.png)
+
+   -  As a user one thing that attracts me to use a website is a short homepage with a short description of what it is all about. To me when the home page is too long and too wordy, it is already a turn off form me. This may differ to different people so this is only base on my personal preference. The photo I think adds a personal touch. 
+
+### SOCIAL LINKS
+
+  ![Social Links](assets/readme-images/sociallinks.png)
+
+  - In this day and age, Social Media is everywhere and 99% of the population probably has one, so having social links on all pages of your website not only makes your website look aesthestically pleasing but as well as it could help users find your easier. Especially when you are offering services. 
+
+### CAROUSEL
+    
+  ![carousel](assets/readme-images/Carousel.png)
+
+  - I Carousel makes your website look interesting and fun to look at. 
+
+### WORKING LINKS
+  ![Working Links](assets/readme-images/workinglinks.png)
+
+  - All my pages are linked to website of important information, having a fully working links is healpful especially to users who are looking for information. 
+
+### VIDEO
+  ![VIDEO](assets/readme-images/video.png)
+
+  - Videos on a website is quite helpful, especially for audiences who prefers directive audio and visual instructions rather than written. 
+
+### DOWNLOADABLE PDF LINK
+  ![PDF LINK ](assets/readme-images/downloadablepdf.png)
+
+  - Having a Link that you can download pdf files are very important when it comes to websites that provide information. 
+
+  ### CONTACT PAGE 
+  ![Contact Page](assets/readme-images/contact.png)
+
+  - Contact Pages I think is one of the most usefukl pages in a website, it provides user comfort that they can reach out to someone if they do have additional information. 
+
+
 
 
 ### **Language Used**
@@ -210,16 +248,26 @@ Playfair and Sans-Serif
 ### **HTML Validatior Test**
 
     It showed quite a few errors that I have already fixed but I wasn't able to get a screenshot of. 
+  - Home Page - 
+https://validator.w3.org/nu/?doc=https%3A%2F%2Ffrees1990.github.io%2FVisa-Chronicles%2F
+  - My Story Page -
+https://validator.w3.org/nu/?doc=https%3A%2F%2Ffrees1990.github.io%2FVisa-Chronicles%2Fmystory.html
+  - Visa Process Page - 
+https://validator.w3.org/nu/?doc=https%3A%2F%2Ffrees1990.github.io%2FVisa-Chronicles%2Fvisaprocess.html
+  - Documents Page - 
+https://validator.w3.org/nu/?doc=https%3A%2F%2Ffrees1990.github.io%2FVisa-Chronicles%2Fdocuments.html
+  - Contact Page - 
+https://validator.w3.org/nu/?doc=https%3A%2F%2Ffrees1990.github.io%2FVisa-Chronicles%2Fcontact.html
+  - Confirm Page - 
+https://validator.w3.org/nu/?doc=https%3A%2F%2Ffrees1990.github.io%2FVisa-Chronicles%2Fconfirm.html%3Ffname%3Dsd%26email%3Dfairmejor%2540gmail.com%26pnum%3D07379118910%26text%3Dsadasd
+  
 
-  ![Index.html](assets/readme-images/index.png)
-  ![mystory.html](assets/readme-images/mystory.png)
-  ![visaprocess.html](assets/readme-images/visaprocess.png)
-  ![documents.html](assets/readme-images/documents.png)
-  ![contact.html](assets/readme-images/contact.png)
-  ![confirm.html](assets/readme-images/confirm.png)
+
 
 ### **CSS Validator Test**
-  ![css](assets/readme-images/css.png)
+  - style.css - 
+https://validator.w3.org/nu/?doc=https%3A%2F%2Ffrees1990.github.io%2FVisa-Chronicles%2Fassets%2Fcss%2Fstyle.css
+
 
 ### **Lighthouse Desktop/Mobile**
 
@@ -240,6 +288,28 @@ The First time I ran it it gave me :
    Unfortunately, I wasn't able to screenshot the above and could not remember the rest. I do not understand why it affected the accessiblity and the SEO. I was reading through it and it's citing my CDN's but I cannot delete my CDN's beause they are necessary for my bootstrap code. 
 
 The mose confusing part after hours and hours finding a way for it to get a green, I finally gave up. Open my deployed site again the next day and is now giving me a different score. This part of testing took me 4 days 5 hrs each day and still could not understand, unfortunately its nearly time to submit my project and I will ready through about lighthouse in my own pace to understand how it works. At the moment, to be honest I have no clue what I am doing with lighthouse but it would be interesting to find out what I did wrong and what I can do to achieve full marks on this testing. 
+
+### LIGHTHOUSE LASTMINUTE FIX 30-01-2024
+  - Even though everything is listed on there on what I needed to improve on some of the things that was mentioned there stirred my brain and some of them confused me a lot. However, after few days of reading through the information. I somehow able to fix and improve my scores by:
+  
+        - Changing my jpg's to webp's 
+        - Adding aria-labels to my footer-icons
+        - Adding a meta description tag
+        - deleting extra spaces on css
+        - Duplicate fontawesome CDN
+  One of the things that are mentioned there was removing my JavaScript CDN which obviously I could not because my Bootstraps would not work if those CDN's are removed. 
+
+  I ran it again yesterday all of them are either getting 97-99% Perf 100% SEO. I ran it again today to get somescreenshot as per mentor advice all my pages gave me over 90% Perf except for Visaprocess which made me think again as it gave me over 90% yesterday. I did clear cache and ran it in Incognito but it was still on a amber score. I somehow do not have enough time to figure out anymnore what needs to be done. 
+
+  Bellow are my screenshots:
+
+  ![home Page](assets/readme-images/homepage.png)
+  ![My Story Page](assets/readme-images/mystorypage.png)
+  ![Visa Process Page](assets/readme-images/visaprocess.png)
+  ![Documents Page](assets/readme-images/documentspage.png)
+  ![Contact Page](assets/readme-images/contactpage.png)
+  ![Confirm Page](assets/readme-images/confirmpage.png)
+
 
 ## **Libraries and Programs used**
 - Bootstrap 5.0
@@ -267,6 +337,27 @@ These are the steps:
  - finish and refresh your repo.
  - On the right-hand side, in the Environments section, click on 'github-pages'.
  - Click View deployment to see the live site
+
+### **Fork**
+  1.  On GitHub.com, navigate to the Visa-Chronicles repository.
+  2.  In the top-right corner of the page, click Fork.
+  3.  Under "Owner," select the dropdown menu and click an owner for the forked repository.
+  4.  By default, forks are named the same as their upstream repositories. Optionally, to further distinguish your fork, in the "Repository name" field, type a name.
+  5.  Optionally, in the "Description" field, type a description of your fork.
+  6.  Optionally, select Copy the DEFAULT branch only.
+  7.  Click Create fork.
+
+### **Cloning**
+  1.  On GitHub.com, navigate to your fork of the Spoon-Knife repository.
+  2.  Above the list of files, click  Code.
+  3.  Copy the URL for the repository.
+    - To clone the repository us
+    itory using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click .
+    - To clone a repository using GitHub CLI, click GitHub CLI, then click .
+  4.  Open Git Bash.
+  5.  Change the current working directory to the location where you want the cloned directory.
+  6.  Type git clone, and then paste the URL you copied earlier. It will look like this, with your GitHub username instead of YOUR-USERNAME:
+  7.  Press Enter. Your local clone will be created.
 
 ## **Credits**
  - How to fill out online form video 
@@ -296,3 +387,6 @@ The Idea is to make the contact page look interactive and to show the benefits o
 Media are either personal Photos or paid subscription from shutterstock. 
   
 
+
+
+[def]: assets/readme-images/downlaodablepdf.png
