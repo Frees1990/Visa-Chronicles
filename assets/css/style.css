@@ -7,44 +7,36 @@ body {
     text-align: justify;
     background-color: #dcf3ef;
     -webkit-text-size-adjust: 100%;
-    
 }
-
 .navbar {
     margin: 0;
     margin-bottom: 0;
     border: 0;  
     width: 100%;
 }
-
 .navbar .navbar-toggler {
     border: 0;
 }
-
 .navbar-brand{
     margin-left: 20px;
     font-size: 3vw;
     font-weight: 800;
     margin-right: 70px;
 }
-
 .navbar .navbar-nav a{
     margin-right: 20px;
     font-size: x-large;
     font-weight: bold;
 }
-
 .follow h2 {
     margin-top: 50px;
     text-align: center;
     color: #3a2c39
 }
-
 .center {
     text-align: center;
     width: 100%;
 }
-
 #socialicon i {
     margin-top: 50px;
     font-size: 3vw;
@@ -54,22 +46,16 @@ body {
 #socialicon i:hover{
     color: #8b07bb;
 }
-
-
 footer p {
     font-weight: 600;
     margin-top: 70px;
     text-align: center;
 }
-
 .copyright {
     background: #0f0f0f;
     color: #FFF; 
 }
-
-
-/* ---- Index Page */
-    
+/* ---- Index Page */ 
 .callout-container {
     width:100%;
     height:auto;
@@ -81,14 +67,11 @@ footer p {
     background-size: cover;  
     align-items: center;
     justify-content: center;
-    
 }
-
 .callout-container h1 {
     width:100%;
     height:auto;
 }
-
 .jumbotron {
     color: rgb(139, 177, 5);
     font-size: 4vw;
@@ -96,9 +79,7 @@ footer p {
     font-weight: 800;
     margin-top: 300px;
     margin-bottom: 30px;
-    
 }
-
 .rounded-image {
     margin-top: 50px;
     align-items: center;
@@ -111,13 +92,10 @@ footer p {
     border-width: 1px;
     border-radius: 50%;
 }
-
 blockquote h2{
     margin-bottom: 30px;
     font-weight: 600;
 }
-
-
 .quote {
     margin-top: 70px;
     margin-bottom: 20px;
@@ -125,15 +103,11 @@ blockquote h2{
     justify-content: center;
     display: inline-block;
     color: #0f0f0f;
-
 }
-
 .GOV {
     color: #0a776e;
     text-decoration: none;
 }
-
-
 .btn-primary,
 .btn-lg .active{
     background-color: #473346;
@@ -147,46 +121,36 @@ blockquote h2{
     color: #FFF;
     margin-bottom: 50px;
 }
-
 /* ---- My Story---- */
-
  .IntroMS h1 {
     margin-top: 50px;
     font-weight: 600;
  }
-
  #heart {
     color: #ff00ea;
     font-size: x-large;
-
  }
-
  .IntroMS p {
     margin-top: 20px;
  }
-
  .VSclass {
     color:#038296;
     font-size: 1em;
     font-weight: 600;
     text-decoration: none;
  }
-
  .VSclass:hover {
     color:#7a098b
  }
-
  .IntroMS h2 i{
     font-size: x-large;
     color: #19b91b;
  }
-
  .IntroMS h2 {
     text-align: center;
     margin-top: 30px;
     font-size: x-large;
  }
-
  article {
     width:100%;
     height:auto;
@@ -195,7 +159,6 @@ blockquote h2{
     background-color: #b4ece3;
     background-size: cover;
  }
-
  .steps h3{
     text-align: center;
     background-color: #3a2c39;
@@ -203,25 +166,20 @@ blockquote h2{
     margin-top: 30px;
     font-size: 2em;
  }
-
  .ending h4{
     text-align: center;
  }
-
  .steps li {
     margin-top: 30px;
  }
-
  .steps-link {
     text-decoration: none;
     color:#038296;
  }
-
  .steps p {
     margin-top: 20px;
     margin-left: 20px;
  }
-
  .steps h3{
     text-align: center;
     background-color: #3a2c39;
@@ -229,33 +187,26 @@ blockquote h2{
     margin-top: 30px;
     font-size: 2em;
  }
-
  .ending h5 {
     margin-top: 50px;
     text-align: center;
     color:#07332c
  }
-
  .steps h3 {
     margin-top: 50px;
     text-align: center;
  }
-
 .ending i{
     color: rgba(94, 49, 49, 0.602);
     font-size: xx-large;
  }
-
  .steps ol {
     margin-left: 10px;
  }
-
  .steps h5 {
     margin-top: 30px;
  }
-
 /* ----Visa Process---- */
-
 .marriage-image {
     float: left;
     margin-top: 50px;  
@@ -266,7 +217,6 @@ blockquote h2{
     border-style: solid;
     border-width: 1px;
 }
-
 .marriage h1, .qualification h1, .form-vid h2, .UKFinancialReq h1, .accommodation h1,
 .english h1, .supporting h1, .apply h1, .cost h1{
     margin-top: 50px;
@@ -299,105 +249,78 @@ blockquote h2{
     text-decoration: none;
     font-size: smaller;
 }
-
 .FLRM:hover , .ILR:hover , .financial-req:hover, 
 .accommodation-req:hover, .e-l-req:hover, .TB-test:hover,
 .TestCenter:hover, .Housing-act:hover, .sites:hover, .contact:hover, .facebook:hover{
     color:#8b07bb;
 }
-
-
 .qualify {
     margin-top: 10px;
 }
-
 .Docs {
     margin-left: 50px;
 }
-
 .Docs li{
     margin-left: 50px;
 }
-
 .alert-primary {
     font-size: 0.8em;
  }
-
  .sites{
     color:#c81f1f;
     text-decoration: none;
  }
-
-
  /* ----Documents.html--- */
-
  .Document-header {
     text-align: center;
     margin-top: 50px;
  }
-
  .Document-header p {
     margin-top: 30px;
     font-size: x-large;
  }
-
  .letstart {
     margin-top: 20px;
  }
-
  .Document-Middle {
     margin-top: 10px;
     margin-bottom: 10px;
  }
-    
-
  .Document-Middle a {
     color:#19b91b;
     text-decoration: none;
     font-size: smaller;
  }
-
  .Document-Middle a:hover {
     color:#8b07bb;
  }
-
  .Document-Difficult {
     margin-top: 10px;
     margin-top: 10px;
  }
-
  .Document-Difficult a {
     color:#19b91b;
     text-decoration: none;
     font-size: smaller;
  }
-
  .Document-Difficult a:hover {
     color:#8b07bb;
  }
-
  .bitwork {
     margin-top: 20px;
  }
-
 /* ----Contact Form */
 .message h5 {
     margin-top: 30px;
     margin-bottom: 30px;
 }
-
-
  .Confirmation {
     text-align: center;
     margin-top: 30px;
  }
-
  .Confirmation h5 {
     margin-top: 30px;
  }
-
-
-
  /*------Media Queries-----*/
 @media only screen and (min-width: 200px) and (max-width: 767px)  {
     .navbar-brand{
@@ -414,40 +337,32 @@ blockquote h2{
         margin-bottom: 10px;
         
     }
-
     .quote {
         margin-top: 70px;
         margin-bottom: 20px;
         align-items: center;
         justify-content: center;
         color: #0f0f0f;
-    
     }
-
     .center {
         text-align: center;
         width: 100%;
     }
-    
     #socialicon i {
         margin-top: 50px;
         font-size: 2em;
         color: #3a2c39;
         margin-right: 50px;
     }   
-    
     .rounded-image {
         display: none;
     }
-
     .marriage-image {
         max-width: 300px;
         max-height: 300px;
         margin-left: 20px;
     }
-
 }
-
 @media screen and (min-width: 768px) and (max-width: 1024px){
     .navbar-brand{
         margin-left: 20px;
@@ -459,14 +374,12 @@ blockquote h2{
         text-align: center;
         width: 100%;
     }
-    
     #socialicon i {
         margin-top: 50px;
         font-size: 3em;
         color: #3a2c39;
         margin-right: 90px;
     }   
-
     .rounded-image {
         margin-top: 50px;
         align-items: center;
@@ -479,14 +392,12 @@ blockquote h2{
         border-width: 1px;
         border-radius: 50%;
     }
-    
     .marriage-image {
         max-width: 300px;
         max-height: 300px;
         margin-left: 10px;
     }
 }
-
 @media screen and (mamin-width: 1025px)and (max-width: 1200px){
     .navbar-brand{
         margin-left: 20px;
@@ -498,13 +409,11 @@ blockquote h2{
         text-align: center;
         width: 100%;
     }
-    
     #socialicon i {
         margin-top: 50px;
         color: #3a2c39;
         margin-right: 50px;
     }   
-    
     .rounded-image {
         margin-top: 50px;
         align-items: center;
@@ -517,7 +426,6 @@ blockquote h2{
         border-width: 1px;
         border-radius: 50%;
     }
-
     .marriage-image {
         max-width: 300px;
         max-height: 300px;
