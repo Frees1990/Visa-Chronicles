@@ -320,6 +320,7 @@ The mose confusing part after hours and hours finding a way for it to get a gree
 - Font Awesome: Dropdown menu icon
 - UI.DEV: Responsive screenshots of the final project for the README file
 - Squoosh app/editor
+- Online image converter
 
 ## **Deployment & Usage**
 ### **Deployment**
@@ -381,6 +382,12 @@ The Idea is to make the contact page look interactive and to show the benefits o
 
 - Some content from
   - https://www.legislation.gov.uk/ukpga/1985/68/contents
+
+- Image converting from jpg to webp
+  https://image.online-convert.com/convert-to-webp
+
+- Lighthouse Information Guidelines Info 
+Lightouse
 
 ### **Media**
 
